@@ -269,6 +269,13 @@ footer {
 
 ## OUTPUT
 
+<img width="1868" height="911" alt="image" src="https://github.com/user-attachments/assets/fcb2c01f-23ff-4ccb-8799-3795a78be604" />
+<img width="1878" height="878" alt="image" src="https://github.com/user-attachments/assets/eb9f8fbd-0779-47c6-b260-536047a20984" />
+<img width="1862" height="863" alt="image" src="https://github.com/user-attachments/assets/5f1bbbf9-b0fd-4446-9d2e-8a0eb5b1a650" />
+<img width="1875" height="905" alt="image" src="https://github.com/user-attachments/assets/52305dca-eeae-4c1b-bc90-8b6729ab8bbe" />
+
+
+
 
 
 
